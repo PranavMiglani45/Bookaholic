@@ -1,0 +1,18 @@
+.booksimage
+{
+    height: 300px;
+    width: 200px;
+    
+}
+.booksimage:hover
+{
+    height: 350px;
+    width: 300px; 
+    box-shadow: 0px 0px 14px 0.3px #03030396;
+}
+
+#div2
+{
+    width: 20%;
+    margin: 30px;
+}
